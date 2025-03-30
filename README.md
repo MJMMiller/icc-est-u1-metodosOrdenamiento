@@ -45,18 +45,13 @@ Para ejecutar el proyecto:
 ## 🧑‍💻 Ejemplo de Entrada
 
 ```plaintext
-Seleccione el método de ordenamiento:
-1. Burbuja
-2. Selección
-3. Inserción
-4. Burbuja Mejorado
-5. Salir
+----------------------------------   SELECCIONE EL METODO DE ORDENAMIENTO ---------------------------------
 
-¿Desea ver los pasos? (true/false):
-true
+[ 1 ] Burbuja     [ 2 ] Seleccion         [ 3 ] Insercion         [ 4 ] Burbuja Mejorado      [ 5 ] Salir :
 
-¿Desea ordenar ascendentemente (A) o descendentemente (D)?:
-A
+Ingrese la opcion: : 1
+¿ Desea ver los pasos ? (  true    /   false   ): true
+¿ Desea ordenar ? ascendentemente ( A ) o descendentemente ( D )  : A
 ```
 
 ---
